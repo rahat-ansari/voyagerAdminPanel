@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 559b417df4fe2b86046ff83eff09b4a4794a2e41 unknown <Administrator@DESKTOP-ET2PHTI.(none)> 1567824447 +0600	clone: from https://gitlab.com/deveansari/voyageradminpanel.git
+559b417df4fe2b86046ff83eff09b4a4794a2e41 ba66be03264ed5abad68822f895418788868dbfa Rahat Ansari <deveansari@gmail.com> 1567828983 +0600	commit: take tcg inside vendor
+ba66be03264ed5abad68822f895418788868dbfa c0716584232356f0f246805c2f29f92df717bb22 Rahat Ansari <deveansari@gmail.com> 1567829672 +0600	commit: check to exclude one tcg folder in vendor
+c0716584232356f0f246805c2f29f92df717bb22 5e2b9396f8c8580650cc7c45dec0b8eaf6503964 Rahat Ansari <deveansari@gmail.com> 1567830259 +0600	commit: try to exclude tcg into vendor
+5e2b9396f8c8580650cc7c45dec0b8eaf6503964 d31ddf7395d108fb8813a552703caae55a8bf94d Rahat Ansari <deveansari@gmail.com> 1567830732 +0600	commit: try to exclude tcg into vendors
+d31ddf7395d108fb8813a552703caae55a8bf94d eeb8d1f6cbda411b94517b2d283aa06bda655dc7 Rahat Ansari <deveansari@gmail.com> 1567831462 +0600	commit: exclude from vendors
+eeb8d1f6cbda411b94517b2d283aa06bda655dc7 60f57e20c319ebea05ad2fe8125d73a9883cdabf Rahat Ansari <deveansari@gmail.com> 1567831966 +0600	commit: exclude check
+60f57e20c319ebea05ad2fe8125d73a9883cdabf 82152c8167c3108d67c5431e202c7d408e3f78f2 Rahat Ansari <deveansari@gmail.com> 1567832434 +0600	commit: exclude folder check
+82152c8167c3108d67c5431e202c7d408e3f78f2 807ca5db9833fcc6ba2cecbc0ace9ec83bc25b90 Rahat Ansari <deveansari@gmail.com> 1567832848 +0600	commit: folder check
+807ca5db9833fcc6ba2cecbc0ace9ec83bc25b90 4230ad3c01a2d6629c7ff9a7742055ed5c9846d1 Rahat Ansari <deveansari@gmail.com> 1567833403 +0600	commit: only take tcg
+4230ad3c01a2d6629c7ff9a7742055ed5c9846d1 8670d1d46d607309497a2cb14b1dc8c864a005b9 Rahat Ansari <deveansari@gmail.com> 1567833695 +0600	commit: folder checks
+8670d1d46d607309497a2cb14b1dc8c864a005b9 a0cd8287604e47a962e676d3771de6b67c0f4f1b Rahat Ansari <deveansari@gmail.com> 1567834088 +0600	commit: folder chk
+a0cd8287604e47a962e676d3771de6b67c0f4f1b 2973509eb4179954183be0b7b45d6a65791b1166 Rahat Ansari <deveansari@gmail.com> 1567834560 +0600	commit: folder ck
+2973509eb4179954183be0b7b45d6a65791b1166 29c9e7939657972d1d74a19c4fd43ec667a65b6a Rahat Ansari <deveansari@gmail.com> 1567837022 +0600	commit: best try
+29c9e7939657972d1d74a19c4fd43ec667a65b6a 29c9e7939657972d1d74a19c4fd43ec667a65b6a Rahat Ansari <deveansari@gmail.com> 1567837763 +0600	reset: moving to HEAD
+29c9e7939657972d1d74a19c4fd43ec667a65b6a 31d3434bba27e2d0eb322d9029942e8f77437787 Rahat Ansari <deveansari@gmail.com> 1567837825 +0600	commit: only tcg
